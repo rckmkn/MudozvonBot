@@ -1,0 +1,9 @@
+{   
+    "Name" : "MudozvonBot",
+    
+    "Token": "abcd1234",
+    "SecretCode": "abcd1234",
+    "ArtemID": 1234,
+    "ConfirmationCode": "abcd1234",
+    "GroupId": 1234
+}
